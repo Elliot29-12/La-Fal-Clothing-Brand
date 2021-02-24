@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<h1>Welcome<h1/>
 
 You can use the [editor on GitHub](https://github.com/Elliot29-12/La-Fal-Clothing-Brand/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
